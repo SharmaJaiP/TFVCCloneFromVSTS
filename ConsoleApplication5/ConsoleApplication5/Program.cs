@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication3.App_GlobalResources
+namespace ConsoleApplication5
 {
-    class Class1
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
