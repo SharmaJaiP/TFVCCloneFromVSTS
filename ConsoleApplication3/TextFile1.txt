@@ -1,1 +1,2 @@
 ﻿My text file.
+Added another method.
