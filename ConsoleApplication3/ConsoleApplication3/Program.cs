@@ -17,5 +17,10 @@ namespace ConsoleApplication3
              // Adding new text file.
              // doing another checkin.
         }
+
+        static void PrintStatus()
+        {
+            // Adding another method
+        }
     }
 }
