@@ -21,6 +21,7 @@ namespace ConsoleApplication3
         static void PrintStatus()
         {
             // Adding another method
+            // Making change in child branch
         }
     }
 }

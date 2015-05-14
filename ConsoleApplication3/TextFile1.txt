@@ -1,2 +1,3 @@
 ﻿My text file.
 Added another method.
+Making change in child branch
