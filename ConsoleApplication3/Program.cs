@@ -17,6 +17,7 @@ namespace ConsoleApplication3
              // Adding new text file.
              // doing another checkin.
              // another checkin
+             // adding a binary file.
         }
 
         static void PrintStatus()

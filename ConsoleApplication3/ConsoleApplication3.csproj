@@ -54,6 +54,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ConsoleApplication2.vshost.exe" />
     <Content Include="TextFile1.txt" />
     <Content Include="TextFile2.txt" />
   </ItemGroup>
