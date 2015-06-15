@@ -12,5 +12,10 @@ namespace M83Deployment
         {
             // Comment added in parent branch
         }
+
+        static void DoNothing()
+        {
+
+        }
     }
 }
