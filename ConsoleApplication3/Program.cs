@@ -11,20 +11,19 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             //One checkin
+            //One checkin
             // anothe chekcin
             // anpother
              // another checkin
              // Adding new text file.
              // doing another checkin.
-             // another checkin
-             // adding a binary file.
         }
 
         static void PrintStatus()
         {
             // Adding another method
-            // testing Sprint 82 binary upgrade
-            // second checkin
+            // Making change in child branch
         }
     }
 }
+
