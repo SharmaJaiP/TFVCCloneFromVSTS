@@ -11,6 +11,7 @@ namespace ConsoleApplication3
 
         static void Foo()
         {
+            // Change done in Demo branch
         }
 
         static void Bar()
