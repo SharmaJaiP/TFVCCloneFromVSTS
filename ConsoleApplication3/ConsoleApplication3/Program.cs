@@ -8,8 +8,13 @@ namespace ConsoleApplication3
 {
     class Program
     {
+
+        static void Foo()
+        {
+        }
         static void Main(string[] args)
         {
+             // 
             //One checkin
             // anothe chekcin
             // anpother
