@@ -12,6 +12,10 @@ namespace ConsoleApplication3
         static void Foo()
         {
         }
+
+        static void Bar()
+        {
+        }
         static void Main(string[] args)
         {
              // 
